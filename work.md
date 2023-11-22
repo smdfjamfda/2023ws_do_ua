@@ -4,7 +4,7 @@ marp: true
 
 # Organizational Hierarchy 
 ## Changxin Wang
-## 11/3/2023
+## 22/3/2023
 ---
 # Roadmap
 * Introduction
@@ -25,28 +25,25 @@ marp: true
 
 ---
 
-# What is Organizational Hierarchy
+ # Problems Solved by Organizational Hierarchy
 Clarify roles and responsibilities: In a large and diverse organization, everyone must understand their roles and responsibilities.
 
 ---
-# What is Organizational Hierarchy
+ # Problems Solved by Organizational Hierarchy
 Simplified communication: Hierarchy simplifies the flow of information, ensuring critical data and decisions can be effectively disseminated throughout the organization.
 
 ---
-# What is Organizational Hierarchy
-Enhanced decision-making: Hierarchy allows for different levels of specialization and expertise.
-
----
  # Problems Solved by Organizational Hierarchy
- * Clarifies Roles and Responsibilities
- * Streamlines Communication
- * Enhances Decision-Making
+Enhanced decision-making: Hierarchy allows for different levels of specialization and expertise.
 
 ---
 # How Organizational Hierarchy Works 
 
+The CEO or president is responsible for setting the overall vision of the organization and making strategic decisions that affect the entire entity.
 
-![bg right](https://s1.locimg.com/2023/11/03/7c108bbf40864.png)
+---
+# How Organizational Hierarchy Works 
+Department heads and managers are entrusted with responsibility for specific areas and teams, making decisions that are consistent with broader goals.
 
 ---
 
